@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+}
+
+marquee {
+  font-style: italic bold;
+  font-size: 40px;
+}
+
+#bg{
+  background: url('./images/bus.jpg')  center/cover;
+  z-index: -1;
+  height: 80%;
+  min-width: 100%;
+  position: absolute;
+   
+}
+
+.Notifi {
+  background-color: rgba(0,0,0,0.5);
+  text-align: center;
+  margin-top: 50px;
+  border-radius: 25px;
+  margin-left: 20%;
+  color: white;
+  width: 60%;
+}
+
+.form-control {
+  align-items: center;
+  width: 40%;
+  margin-left: 30%;
+  margin-top: 10px;
+}
+
+.pay{
+  margin-top: 20px;
+}
